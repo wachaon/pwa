@@ -13,3 +13,5 @@
 ### *GitHub Pages* で *pwa* の骨組みを作成する
 
 *pwa* で必要な `index.html` と `manifest.json`、`icon.jpg` を作成します。
+
+[https://wachaon.github.io/pwa/](https://wachaon.github.io/pwa/) に移動します。
