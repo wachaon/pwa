@@ -1,0 +1,12 @@
+{
+    "name": "pwa",
+    "version": "0.0.1",
+    "description": "Exercises on Progressive Web Apps",
+    "main": "index.js",
+    "repository": "https://github.com/wachaon/pwa.git",
+    "keywords": [
+        "PWA (Progressive Web Apps)"
+    ],
+    "author": "wachaon",
+    "license": "MIT"
+}
